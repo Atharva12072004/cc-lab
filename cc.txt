@@ -1,0 +1,25 @@
+expt 4
+lscpu
+cat /etc/os-release
+
+expt 9
+MySQL -h<endpoint paste> -u admin -p
+password: athu1234
+
+db commands
+
+expt 8
+atharva
+password: Athu@123
+
+EXPT 7
+service nginx status
+SSH
+WEBSERVER
+
+SSH 22
+SQL 3306
+HTTP 80
+TCP 53
+UDP 53
+HTTPS 443
