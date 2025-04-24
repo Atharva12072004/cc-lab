@@ -23,3 +23,8 @@ HTTP 80
 TCP 53
 UDP 53
 HTTPS 443
+
+
+expt 10
+docker run hello-world
+docker run -it ubantu bash
